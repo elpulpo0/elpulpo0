@@ -22,7 +22,7 @@ Artificial Intelligence
 Innovative projects in web development, blockchain, and AI.
 
 ### 📫 How to Reach Me:
-Feel free to connect with me through [my LinkedIn](https://www.linkedin.com/in/christophebondue) or [email me](mailto:chris.elpulpo@gmail.com).
+Feel free to [email me](mailto:chris.elpulpo@gmail.com).
 
 ### ⚡ Fun Fact:
 I love exploring new technologies and finding creative solutions to complex problems!
