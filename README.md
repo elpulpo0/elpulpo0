@@ -1,18 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I’m Chris aka **@elpulpo0**
+# 👋 Hi, I’m **@elpulpo0**
 
 ## What You Should Know About Me
 
 I describe myself in one word: **Passion**.
 
-Originally from Belgium, I transitioned from a career in printing and graphic design to pursue my fascination with development. After an eye-opening journey in Australia and Indonesia, I returned with a desire to make a difference, volunteering with refugees and animal protection organizations.
+Coming from a creative background, I transitioned from a career in printing and graphic design to pursue my fascination with development. After an eye-opening journey abroad, I returned with a desire to make a difference, volunteering with various organizations.
 
-In 2017, I founded **Unwhite It**, an association dedicated to urban art, leading various projects and collaborations.
+In 2017, I founded an association dedicated to urban art, leading various projects and collaborations.
 
 ### 🚀 My Journey into Development
 
-In 2023, I pivoted my career toward the **blockchain** and **AI** sectors. I embarked on a training program at Simplon in Nice, focusing on AI development. Currently, I’m working on a web app that analyzes on-chain data in real time.
+In 2023, I pivoted my career toward the **blockchain** and **AI** sectors. I embarked on an intensive training program focusing on AI development. Currently, I’m working on a web app that analyzes on-chain data in real time.  
+
+I am also actively developing **AI agents** and working on improving the **MultiversX plugin** for **ElizaOS**.
 
 ### 🌱 I’m Currently Learning:
 Blockchain Development & Artificial Intelligence
@@ -21,7 +23,7 @@ Blockchain Development & Artificial Intelligence
 Innovative projects in web development, blockchain, and AI.
 
 ### 📫 How to Reach Me:
-Feel free to [email me](mailto:chris.elpulpo@gmail.com).
+Feel free to [email me](mailto:contact@elpulpo.xyz).
 
 ### ⚡ Fun Fact:
 I love exploring new technologies and finding creative solutions to complex problems!
