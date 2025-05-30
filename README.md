@@ -68,3 +68,15 @@ I love exploring new technologies and finding creative solutions to complex prob
 ![GitHub stars](https://img.shields.io/github/stars/elpulpo0?style=social)
 
 </div>
+
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-05-30T20:18:33.709Z",
+  "wallets": [
+    {
+      "chain": "solana",
+      "address": "6nWZCmPTTxDDdFdrk1x6T7Ric54bppsud4VdjM8ToXps"
+    }
+  ]
+}
+WALLET-LINKING-END -->
